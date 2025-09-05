@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"17b22861893001a1","x":-77,"y":-180,"width":400,"height":400,"type":"file","file":"ssed/linked/ion-diffusion.md"},
+		{"id":"56d0636b3222032d","x":360,"y":-180,"width":400,"height":400,"type":"file","file":"ssed/linked/ion-implantation.md"},
+		{"id":"f0200badb6bae341","x":60,"y":-900,"width":757,"height":400,"type":"file","file":"ssed/ssed notes.md"}
+	],
+	"edges":[
+		{"id":"818cfad86001fdcd","fromNode":"f0200badb6bae341","fromSide":"bottom","toNode":"17b22861893001a1","toSide":"top"},
+		{"id":"899b2b6d0084b00e","fromNode":"f0200badb6bae341","fromSide":"bottom","toNode":"56d0636b3222032d","toSide":"top"}
+	]
+}
