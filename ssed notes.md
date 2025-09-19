@@ -9,6 +9,14 @@
 ![[Pasted image 20250905185038.png]]
 if you plug in the wave function, after applying the differential operators on it you get back the wave function but this time its coefficient is called the eigen value and is equal to the energy of the system
 
+general solution of schrodinger equation: Ae^(ikx) + Be^(-ikx) = Csin(kx) + Dcos(kx)
+
+![[Pasted image 20250919081119.png]]
+
+![[Pasted image 20250919082329.png]]
+
+> **to calculate first 3 energy levels of an electron in an infinite potential well of given width type questions - E = hbar^2 k^2/2m and k = n x pi / L**
+
 - Defects - vacancy, interstitial, frenkel (interaction between vacancy and interstitial defect in close proximity), line dislocation - affect the geometric periodicity and ideal atomic bonds
 - thermal vibration disturbs only the normal geometric periodicity 
 - impurities - substitutional impurities, interstitial impurities
